@@ -1,4 +1,4 @@
-# niconavi-sample-holder
+# niconavi-tilt-stage
 
 A thin-section (microscope slide) holder and tilt stage for the NicoNavi software. It is built from four 3D-printed parts plus M2 screws and nuts.
 
