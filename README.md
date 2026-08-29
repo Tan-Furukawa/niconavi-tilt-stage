@@ -1,4 +1,5 @@
 # niconavi-tilt-stage
+[![DOI](https://zenodo.org/badge/1348443506.svg)](https://doi.org/10.5281/zenodo.22161220)
 
 A thin-section (microscope slide) holder and tilt stage for the NicoNavi software. It is built from four 3D-printed parts plus M2 screws and nuts.
 
